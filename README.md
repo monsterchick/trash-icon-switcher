@@ -1,2 +1,4 @@
-# trash-icon-switcher
-A tool to switch the icon of the trash bin.
+# Introduction
+This tool allows you to easily change the icon of the Trash Bin in MacOS/Windows with just one click.
+# Getting Started
+# Usage Examples
